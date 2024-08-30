@@ -1,0 +1,22 @@
+
+body{
+    background-color: #a7a1a7;
+}
+h1{ 
+    background-color: rgb(255, 255, 255);   
+    padding: 16px;
+    font-size: 48px;
+}    
+div {
+    display: flex;
+    flex-wrap: wrap;
+}    
+
+ img{
+    width: 400px;
+    display: block;
+    margin: 4px;
+    border: 8px solid black;
+}    
+
+    
